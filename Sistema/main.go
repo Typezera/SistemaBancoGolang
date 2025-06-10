@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Seja bem vindo Ao Banco Fimoze69")
+	fmt.Println("Seja bem vindo Ao sistema Bancario")
 
 	user := account.BankRegister{}
 
